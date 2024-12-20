@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [mittyadav]
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+a+passionate+developer.;Building+cool+projects+is+what+I+do!)
 
@@ -8,10 +8,10 @@
 
 ### 🌟 About Me:
 
-- 🌱 I’m currently learning **[Your Current Focus]**.
+- 🌱 I’m currently learning **[js]**.
 - 💬 Ask me about **[Topics of Expertise]**.
-- 📫 How to reach me: **[Your Email/Portfolio Link]**.
-- ⚡ Fun fact: **[Something Interesting About You]**.
+- 📫 How to reach me: **[@iamak_roy]**.
+- ⚡ Fun fact: **[i dont know coding lol]**.
 
 ---
 
